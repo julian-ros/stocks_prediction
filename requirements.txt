@@ -1,0 +1,12 @@
+# Please keep the versioning frozen as the diff libraries might be incompatible between them
+# The current PY packages in the venv can be extracted running pip freeze
+pandas
+yfinance
+pandas_ta
+matplotlib
+numpy
+scikit-learn
+keras
+tensorflow
+seaborn
+
